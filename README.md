@@ -1,2 +1,2 @@
 # Yoroi-Cardano-Wallet-mobile-testing
-we are creating a light client for the Cardano blockchain that is available on Google.Play store and on Apple.Store.
+Refer Test cases https://github.com/Harish-bala/Yoroi-Cardano-Wallet-mobile-testing/wiki/Test-Cases-for-login-functionality#default-login-test-case
